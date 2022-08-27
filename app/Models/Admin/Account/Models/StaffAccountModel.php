@@ -13,4 +13,9 @@ class StaffAccountModel
     {
         echo "staff model function 1";
     }
+
+    public function staffModelFunc2()
+    {
+        echo "staff model function 2";
+    }
 }
