@@ -13,4 +13,5 @@ class StaffAccountCondition
     {
         echo "staff condition function 1";
     }
+    
 }
